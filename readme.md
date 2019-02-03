@@ -1,6 +1,8 @@
 # Tracalorie
 Meal and calorie tracker built as part of 'Modern JavaScript' with Brad Traversy. This app utilises the JavaScript module pattern and local storage for persisting data.
 
+Live demo: https://lukeprosser.github.io/tracalorie/
+
 ## Key Features
 <ul>
   <li>Vanilla JavaScript with ES6 tools e.g. template literals, let/const variables, forEach, classes.</li>
